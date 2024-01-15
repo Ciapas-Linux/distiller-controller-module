@@ -1,0 +1,7 @@
+{
+    "sketch": "module.ino",
+    "port": "USB0",
+    "board": "esp8266:esp8266:generic",
+    "configuration": "xtal=80,vt=flash",
+    "output": "../build"
+}
